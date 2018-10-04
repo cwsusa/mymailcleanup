@@ -1,0 +1,17 @@
+{
+  "name": "mymailcleaner",
+  "version": "0.7.0",
+  "description": "baseline features for those who have let their mail accounts ... er ... um ... get cluttered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imap",
+    "cleanup",
+    "archive",
+    "email_sifter"
+  ],
+  "author": "will martin",
+  "license": "CC-BY-4.0"
+}
